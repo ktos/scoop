@@ -1,0 +1,2 @@
+# scoop
+My Scoop bucket
