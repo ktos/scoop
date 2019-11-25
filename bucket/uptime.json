@@ -1,0 +1,9 @@
+{
+    "version": "1.01",
+    "architecture": "32bit",
+    "url": "https://ktos.blob.core.windows.net/scoop/uptime.zip",    
+    "bin": "uptime.exe",
+    "hash": "1bfaa4be68bed7426af66b1d9b1307c5dac14456482a3f168b37c9ca08424356",
+    "license": "Proprietary ((C) Copyright 1999, Microsoft Corporation)",
+    "description": "Calculates system uptime and availability"
+}
