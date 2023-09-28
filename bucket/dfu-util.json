@@ -1,9 +1,0 @@
-{
-    "version": "0.9",
-    "architecture": "64bit",
-    "url": "http://dfu-util.sourceforge.net/releases/dfu-util-0.9-win64.zip",    
-    "bin": "dfu-util-0.9-win64/dfu-util.exe",
-    "hash": "5816D7EC68EF3AC07B5AC9FB9837C57D2EFE45B6A80A2F2BBE6B40B1C15C470E",
-    "license": "GPL-2.0-only",
-    "description": "DFU is intended to download and upload firmware to/from devices connected over USB"
-}
